@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13c075c74e68a8b290698e3c49a238ad",
+    "revision": "ca93d34ebff06e0c0b36b83635d14c0b",
     "url": "/loki-king-game/index.html"
   },
   {

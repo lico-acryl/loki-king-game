@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/loki-king-game/precache-manifest.a1fbd5551d961bae7dd9acdecbe61b24.js"
+  "/loki-king-game/precache-manifest.366c699a493002148abd071390a7e5e9.js"
 );
 
 self.addEventListener('message', (event) => {
