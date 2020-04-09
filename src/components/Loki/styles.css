@@ -1,0 +1,10 @@
+.loki {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+
+.loki img {
+    width: 100%;
+    height: 100%;
+}
