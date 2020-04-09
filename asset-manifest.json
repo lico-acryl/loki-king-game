@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/loki-king-game/static/css/main.e4d5c891.chunk.css",
+    "main.js": "/loki-king-game/static/js/main.5dfda340.chunk.js",
+    "main.js.map": "/loki-king-game/static/js/main.5dfda340.chunk.js.map",
+    "runtime-main.js": "/loki-king-game/static/js/runtime-main.30f787ff.js",
+    "runtime-main.js.map": "/loki-king-game/static/js/runtime-main.30f787ff.js.map",
+    "static/js/2.534fd172.chunk.js": "/loki-king-game/static/js/2.534fd172.chunk.js",
+    "static/js/2.534fd172.chunk.js.map": "/loki-king-game/static/js/2.534fd172.chunk.js.map",
+    "index.html": "/loki-king-game/index.html",
+    "precache-manifest.a1fbd5551d961bae7dd9acdecbe61b24.js": "/loki-king-game/precache-manifest.a1fbd5551d961bae7dd9acdecbe61b24.js",
+    "service-worker.js": "/loki-king-game/service-worker.js",
+    "static/css/main.e4d5c891.chunk.css.map": "/loki-king-game/static/css/main.e4d5c891.chunk.css.map",
+    "static/js/2.534fd172.chunk.js.LICENSE.txt": "/loki-king-game/static/js/2.534fd172.chunk.js.LICENSE.txt",
+    "static/media/lico.png": "/loki-king-game/static/media/lico.57f27815.png",
+    "static/media/loki.png": "/loki-king-game/static/media/loki.86f10598.png",
+    "static/media/trevor.png": "/loki-king-game/static/media/trevor.543f17ba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30f787ff.js",
+    "static/js/2.534fd172.chunk.js",
+    "static/css/main.e4d5c891.chunk.css",
+    "static/js/main.5dfda340.chunk.js"
+  ]
+}
